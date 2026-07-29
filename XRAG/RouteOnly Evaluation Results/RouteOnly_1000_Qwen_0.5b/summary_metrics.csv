@@ -1,0 +1,2 @@
+model,n,correct,accuracy,accuracy_ci_low,accuracy_ci_high,macro_precision,macro_recall,macro_f1,invalid_count,invalid_rate,avg_latency_ms,median_latency_ms,p90_latency_ms,p95_latency_ms,min_latency_ms,max_latency_ms
+gateway_current,1000,294,0.294000,0.266594,0.322983,0.584210,0.294000,0.289201,0,0.000000,1504.261,1622.558,1761.813,1809.625,622.526,5202.730

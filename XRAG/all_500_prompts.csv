@@ -1,0 +1,501 @@
+phase,prompt
+memory,"For this session, keep the prototype codename as Ember Ward."
+memory,What is the prototype codename for this session?
+memory,The current build target is standalone VR with a desktop debug simulator.
+memory,What is the current build target?
+memory,The opening scene starts in a flooded hospital corridor.
+memory,Where does the opening scene start?
+memory,The intended player feeling is calm under pressure rather than panic.
+memory,What player feeling are we targeting?
+memory,The main risk for the demo is hand-tracking latency during object grabbing.
+memory,What is the main risk for the demo?
+memory,The accessibility rule is that every colour warning also needs a shape cue.
+memory,What accessibility rule did we store?
+memory,The vertical slice must demonstrate cooperation without using voice chat.
+memory,What must the vertical slice demonstrate?
+memory,The prototype visual benchmark is stylised realism with low saturation.
+memory,What visual benchmark are we using?
+memory,The first playtest audience is first-year game-development students.
+memory,Who is the first playtest audience?
+memory,The baseline input method is gaze selection with a confirm button.
+memory,What is the baseline input method?
+memory,"The sprint goal is interaction polish, not adding new levels."
+memory,What is the current sprint goal?
+memory,The build should favour seated VR interaction over room-scale movement.
+memory,What movement constraint did we agree on?
+memory,The tutorial should fail gracefully if the player drops the first tool.
+memory,What did we say about the grab tutorial?
+memory,The safe-zone outline shader is only for accessibility mode.
+memory,What did we say about the safe-zone outline shader?
+memory,The fail-safe rule is that puzzle-critical valves cannot spawn behind locked doors.
+memory,What is the fail-safe rule about puzzle-critical valves?
+memory,"At stand-up, Rhea took ownership of lighting readability."
+memory,Who took ownership of lighting readability?
+memory,Rhea is interested in volumetric fog that keeps navigation markers visible.
+memory,What is Rhea interested in?
+memory,Update Rhea's task from lighting readability to safe-zone colour contrast.
+memory,What is Rhea responsible for now?
+memory,"At stand-up, Nikos took ownership of backend telemetry."
+memory,Who took ownership of backend telemetry?
+memory,Nikos is interested in FastAPI health checks for generation backends.
+memory,What is Nikos interested in?
+memory,Update Nikos's task from backend telemetry to service-call logging dashboard.
+memory,What is Nikos responsible for now?
+memory,"At stand-up, Mira took ownership of diegetic UI."
+memory,Who took ownership of diegetic UI?
+memory,Mira is interested in interface layouts for seated VR.
+memory,What is Mira interested in?
+memory,Update Mira's task from diegetic UI to wrist map readability.
+memory,What is Mira responsible for now?
+memory,"At stand-up, Theo took ownership of physics props."
+memory,Who took ownership of physics props?
+memory,Theo is interested in weighted crate behaviour.
+memory,What is Theo interested in?
+memory,Update Theo's task from physics props to stable grab constraints.
+memory,What is Theo responsible for now?
+memory,"At stand-up, Amina took ownership of comfort options."
+memory,Who took ownership of comfort options?
+memory,Amina is interested in reduced-motion mode.
+memory,What is Amina interested in?
+memory,Update Amina's task from comfort options to snap-turn tuning.
+memory,What is Amina responsible for now?
+memory,"At stand-up, Jonas took ownership of soundscape layers."
+memory,Who took ownership of soundscape layers?
+memory,Jonas is interested in adaptive ambience.
+memory,What is Jonas interested in?
+memory,Update Jonas's task from soundscape layers to danger stingers.
+memory,What is Jonas responsible for now?
+memory,"At stand-up, Petra took ownership of narrative structure."
+memory,Who took ownership of narrative structure?
+memory,Petra is interested in environmental storytelling.
+memory,What is Petra interested in?
+memory,Update Petra's task from narrative structure to mission scripting.
+memory,What is Petra responsible for now?
+memory,"At stand-up, Oren took ownership of enemy readability."
+memory,Who took ownership of enemy readability?
+memory,Oren is interested in clear anticipation cues.
+memory,What is Oren interested in?
+memory,Update Oren's task from enemy readability to silhouette testing.
+memory,What is Oren responsible for now?
+memory,"At stand-up, Selene took ownership of material references."
+memory,Who took ownership of material references?
+memory,Selene is interested in wet metal material studies.
+memory,What is Selene interested in?
+memory,Update Selene's task from material references to burned concrete surfaces.
+memory,What is Selene responsible for now?
+memory,"At stand-up, Ilias took ownership of network synchronisation."
+memory,Who took ownership of network synchronisation?
+memory,Ilias is interested in latency testing for co-op objects.
+memory,What is Ilias interested in?
+memory,Update Ilias's task from network synchronisation to shared lever replication.
+memory,What is Ilias responsible for now?
+memory,"At stand-up, Dana took ownership of tutorial pacing."
+memory,Who took ownership of tutorial pacing?
+memory,Dana is interested in first-time user guidance.
+memory,What is Dana interested in?
+memory,Update Dana's task from tutorial pacing to hint timing.
+memory,What is Dana responsible for now?
+memory,"At stand-up, Kora took ownership of accessibility validation."
+memory,Who took ownership of accessibility validation?
+memory,Kora is interested in shape cues for warnings.
+memory,What is Kora interested in?
+memory,Update Kora's task from accessibility validation to subtitles while crouching.
+memory,What is Kora responsible for now?
+memory,"At stand-up, Basil took ownership of asset integration."
+memory,Who took ownership of asset integration?
+memory,Basil is interested in runtime asset loading.
+memory,What is Basil interested in?
+memory,Update Basil's task from asset integration to GLB import checks.
+memory,What is Basil responsible for now?
+memory,"At stand-up, Nora took ownership of level greyboxing."
+memory,Who took ownership of level greyboxing?
+memory,Nora is interested in corridor landmark placement.
+memory,What is Nora interested in?
+memory,Update Nora's task from level greyboxing to safe-route visibility.
+memory,What is Nora responsible for now?
+memory,"At stand-up, Yannis took ownership of QA logging."
+memory,Who took ownership of QA logging?
+memory,Yannis is interested in comfort issue triage.
+memory,What is Yannis interested in?
+memory,Update Yannis's task from QA logging to dizziness reports.
+memory,What is Yannis responsible for now?
+memory,Character note: Milo Finch is the radio companion.
+memory,Who is the radio companion?
+memory,Behaviour note for Milo Finch: gives short radio hints when the player stands still too long.
+memory,What does Milo Finch do?
+memory,"When we discuss companion hint timing, link it back to Milo Finch."
+memory,What do you remember about companion hint timing?
+memory,Character note: Glass Warden is the slow enemy.
+memory,Who is the slow enemy?
+memory,Behaviour note for Glass Warden: reacts to flashlight beams rather than footsteps.
+memory,What does Glass Warden do?
+memory,"When we discuss light-reactive enemy behaviour, link it back to Glass Warden."
+memory,What do you remember about light-reactive enemy behaviour?
+memory,Character note: Nurse Vale is the mission guide.
+memory,Who is the mission guide?
+memory,Behaviour note for Nurse Vale: gives objective hints after each checkpoint.
+memory,What does Nurse Vale do?
+memory,"When we discuss mission guide dialogue, link it back to Nurse Vale."
+memory,What do you remember about mission guide dialogue?
+memory,Character note: Ash Drone is the flying hazard detector.
+memory,Who is the flying hazard detector?
+memory,Behaviour note for Ash Drone: scans closed rooms for heat signatures.
+memory,What does Ash Drone do?
+memory,"When we discuss hazard scanning behaviour, link it back to Ash Drone."
+memory,What do you remember about hazard scanning behaviour?
+memory,Character note: Sable Clerk is the merchant automaton.
+memory,Who is the merchant automaton?
+memory,Behaviour note for Sable Clerk: trades salvage for temporary traversal tools.
+memory,What does Sable Clerk do?
+memory,"When we discuss economy NPC logic, link it back to Sable Clerk."
+memory,What do you remember about economy NPC logic?
+memory,Character note: Jun Reed is the maintenance engineer.
+memory,Who is the maintenance engineer?
+memory,Behaviour note for Jun Reed: unlocks pump controls after the repair puzzle.
+memory,What does Jun Reed do?
+memory,"When we discuss repair-gate NPC, link it back to Jun Reed."
+memory,What do you remember about repair-gate NPC?
+memory,Character note: Aster Lane is the child survivor.
+memory,Who is the child survivor?
+memory,Behaviour note for Aster Lane: hides whenever emergency lights switch off.
+memory,What does Aster Lane do?
+memory,"When we discuss fear-state behaviour, link it back to Aster Lane."
+memory,What do you remember about fear-state behaviour?
+memory,Character note: The Glass Choir is the environmental threat.
+memory,Who is the environmental threat?
+memory,Behaviour note for The Glass Choir: sings before pressure windows fracture.
+memory,What does The Glass Choir do?
+memory,"When we discuss warning-state hazard, link it back to The Glass Choir."
+memory,What do you remember about warning-state hazard?
+memory,Character note: Vera Pike is the rival rescuer.
+memory,Who is the rival rescuer?
+memory,Behaviour note for Vera Pike: blocks shortcuts if optional rescues are ignored.
+memory,What does Vera Pike do?
+memory,"When we discuss reactive rival logic, link it back to Vera Pike."
+memory,What do you remember about reactive rival logic?
+memory,Character note: Mina Rowe is the lost intern.
+memory,Who is the lost intern?
+memory,Behaviour note for Mina Rowe: waits in the smoke corridor until the player activates the beacon.
+memory,What does Mina Rowe do?
+memory,"When we discuss rescue-state NPC, link it back to Mina Rowe."
+memory,What do you remember about rescue-state NPC?
+memory,"For the equipment spec, the pressure compass is used to point players toward unstable bulkheads."
+memory,What is the pressure compass used for?
+memory,System behaviour: the pressure compass needle shakes when a flood event is nearby.
+memory,What happens to the pressure compass?
+memory,"For the equipment spec, the thermal flare is used to mark safe exits for the second player."
+memory,What is the thermal flare used for?
+memory,System behaviour: the thermal flare smoke bends toward safe exits when the alarm level is high.
+memory,What happens to the thermal flare?
+memory,"For the equipment spec, the cracked oxygen meter is used to warn players before oxygen drops below twenty percent."
+memory,What is the cracked oxygen meter used for?
+memory,System behaviour: the cracked oxygen meter screen flickers when the generator is unstable.
+memory,What happens to the cracked oxygen meter?
+memory,"For the equipment spec, the evacuation map is used to show route changes after each checkpoint."
+memory,What is the evacuation map used for?
+memory,System behaviour: the evacuation map display becomes wrist-mounted after the correction.
+memory,What happens to the evacuation map?
+memory,"For the equipment spec, the repair foam is used to seal small leaks temporarily."
+memory,What is the repair foam used for?
+memory,System behaviour: the repair foam hardens faster near heat sources.
+memory,What happens to the repair foam?
+memory,"For the equipment spec, the tether reel is used to pull a partner across broken platforms."
+memory,What is the tether reel used for?
+memory,System behaviour: the tether reel cable slack increases if both players sprint.
+memory,What happens to the tether reel?
+memory,"For the equipment spec, the signal beacon is used to show the partner's last confirmed position."
+memory,What is the signal beacon used for?
+memory,System behaviour: the signal beacon range drops in flooded rooms.
+memory,What happens to the signal beacon?
+memory,"For the equipment spec, the airlock crank is used to restore pressure manually during outages."
+memory,What is the airlock crank used for?
+memory,System behaviour: the airlock crank handle locks when alarms are active.
+memory,What happens to the airlock crank?
+memory,"For the equipment spec, the map slate is used to store scanned room annotations."
+memory,What is the map slate used for?
+memory,System behaviour: the map slate screen flickers after water damage.
+memory,What happens to the map slate?
+memory,"For the equipment spec, the echo probe is used to detect hidden chambers through walls."
+memory,What is the echo probe used for?
+memory,System behaviour: the echo probe pulse gets noisy around machinery.
+memory,What happens to the echo probe?
+memory,"For the equipment spec, the oxygen refill station is used to restore limited oxygen charges."
+memory,What is the oxygen refill station used for?
+memory,System behaviour: the oxygen refill station status changes after the third rescue.
+memory,What happens to the oxygen refill station?
+memory,"For the equipment spec, the checkpoint board is used to show active rescue objectives."
+memory,What is the checkpoint board used for?
+memory,System behaviour: the checkpoint board status changes when the player reaches a checkpoint.
+memory,What happens to the checkpoint board?
+memory,"For the equipment spec, the sprinkler panel is used to open the fire-suppression puzzle route."
+memory,What is the sprinkler panel used for?
+memory,System behaviour: the sprinkler panel lights turn amber when pressure is unstable.
+memory,What happens to the sprinkler panel?
+memory,"For the equipment spec, the radio beacon is used to guide civilians toward the nearest safe room."
+memory,What is the radio beacon used for?
+memory,System behaviour: the radio beacon signal distorts near the Glass Warden.
+memory,What happens to the radio beacon?
+memory,"For the equipment spec, the equipment locker is used to store unlocked firefighter tools."
+memory,What is the equipment locker used for?
+memory,System behaviour: the equipment locker door jams after the alarm level reaches three.
+memory,What happens to the equipment locker?
+memory,Correction for evacuation map: earlier it was wall display; update it to wrist-mounted map.
+memory,What do you remember about evacuation map after the correction?
+memory,Correction for pressure compass: earlier it was main navigation item; update it to secondary guidance item after the map slate.
+memory,What do you remember about pressure compass after the correction?
+memory,Correction for Glass Warden: earlier it was first enemy; update it to mid-game pursuer introduced after the flooded corridor.
+memory,What do you remember about Glass Warden after the correction?
+memory,Correction for thermal flare: earlier it was unlimited navigation tool; update it to limited emergency marker with three charges.
+memory,What do you remember about thermal flare after the correction?
+memory,Correction for Milo Finch: earlier it was mandatory tutorial narrator; update it to optional companion voice.
+memory,What do you remember about Milo Finch after the correction?
+routing,Generate a 3D model of a rusted hospital cross mounted on a wall.
+routing,Create a GLB asset of a cracked oxygen cylinder for a VR horror game.
+routing,Make a 3D model of a portable evacuation radio with a broken antenna.
+routing,Generate a low-poly 3D fire extinguisher prop with worn labels.
+routing,Create a 3D model of a flooded corridor warning sign.
+routing,Generate a 3D mesh of a medical supply crate with metal hinges.
+routing,Make a game-ready 3D model of a damaged flashlight.
+routing,Generate a 3D model of a sacred wooden cross with worn edges.
+routing,Create a 3D mesh of a wrist-mounted evacuation map.
+routing,Make a 3D model of a thermal flare launcher.
+routing,Generate a 3D model of a cracked hospital bed.
+routing,Create a GLB model of a rescue drone with small propellers.
+routing,Make a 3D prop of a checkpoint board with glowing objective slots.
+routing,Generate a 3D mesh of a corroded airlock crank.
+routing,Create a game-ready 3D pressure valve with red handles.
+routing,Generate a 3D model of an old chapel candle stand.
+routing,Make a 3D prop of a broken generator panel.
+routing,Create a GLB asset of a wall-mounted fire alarm.
+routing,Generate a 3D model of a wet floor caution sign.
+routing,Make a 3D object of a folded emergency stretcher.
+routing,Create a 3D mesh of a radio beacon with blinking antenna.
+routing,Generate a 3D model of a rusted metal locker.
+routing,Make a 3D prop of a sealed medical door.
+routing,Create a game-ready 3D oxygen refill station.
+routing,Generate a 3D model of a cracked ceramic statue.
+routing,Make a GLB asset of a rescue tool crate.
+routing,Create a 3D model of a ceiling sprinkler panel.
+routing,Generate a 3D model of a burned wooden cross.
+routing,Use this uploaded image to create a GLB model of a rescue helmet.
+routing,Convert this reference photo into a 3D model of a wall-mounted alarm.
+routing,Use the sketch I uploaded to generate a 3D mesh of a pressure valve.
+routing,Create a GLB asset from this concept image of a rescue drone.
+routing,Turn this screenshot into a 3D prop for a hospital checkpoint board.
+routing,Use this picture as reference to generate a 3D oxygen mask.
+routing,Convert the uploaded concept art into a 3D model of a chapel door.
+routing,Use this photo to make a 3D model of a medical trolley.
+routing,Generate a GLB from the uploaded sketch of a thermal flare.
+routing,Make a 3D asset from this screenshot of a rescue sign.
+routing,Use the reference image to create a 3D model of a damaged flashlight.
+routing,Convert this uploaded picture into a mesh of an evacuation map.
+routing,Use this concept image to generate a 3D hospital bed prop.
+routing,Create a 3D model from this photo of a fire extinguisher.
+routing,Turn this uploaded sketch into a 3D radio beacon.
+routing,Use this visual reference to create a GLB asset of a safe-room marker.
+routing,Convert this image into a 3D model of a generator switch.
+routing,Use the uploaded screenshot to create a 3D wall panel.
+routing,Generate a mesh from this reference image of an equipment locker.
+routing,Create a 3D prop from this photo of a wet corridor sign.
+routing,Use this image to make a GLB model of a cracked statue.
+routing,Convert this concept art into a 3D pressure gauge.
+routing,Use the uploaded picture to create a 3D chapel candle stand.
+routing,Generate a 3D model from this sketch of a rescue crate.
+routing,Turn this reference photo into a 3D airlock crank.
+routing,Generate a PBR texture for burned concrete with soot marks.
+routing,Create a seamless rusty metal material for an old hospital door.
+routing,Make a normal map for cracked ceramic floor tiles.
+routing,Generate a wet plastic texture for emergency tarps.
+routing,Create a glowing red warning decal material for a checkpoint panel.
+routing,Make a PBR marble material for a chapel floor.
+routing,Generate an albedo and roughness texture for damp concrete walls.
+routing,Create a seamless material for corroded brass handles.
+routing,Make a cracked white paint texture for hospital corridors.
+routing,Generate a dark rubber material for oxygen mask straps.
+routing,Create a stained glass texture with subtle damage.
+routing,Make a wet metal surface material for a flooded airlock.
+routing,Generate a dirty plastic texture for old medical equipment.
+routing,Create a PBR material for burned wood with ash edges.
+routing,Make a seamless tile texture for emergency room flooring.
+routing,Generate a flickering emissive warning sign texture.
+routing,Create a scratched steel material for rescue tools.
+routing,Make a mossy concrete texture for basement walls.
+routing,Generate a translucent plastic material for oxygen tubes.
+routing,Create a decal texture for evacuation arrows.
+routing,Make a PBR texture for scorched chapel stone.
+routing,Generate a peeling paint material for a safe-room door.
+routing,Create a wet paper label texture for medical crates.
+routing,Make a grungy rubber floor material.
+routing,Generate a seamless cracked plaster texture.
+routing,Create a metallic warning panel material with scratches.
+routing,Make a normal map for dented metal lockers.
+routing,Generate a non-verbal warning siren with no spoken words.
+routing,Create an ambience loop for a flooded underground hospital corridor.
+routing,Make a short metallic impact sound for a dropped oxygen tank.
+routing,Generate creature breathing audio without speech.
+routing,Create a looping electrical hum for a failing generator.
+routing,Make footsteps splashing through shallow water.
+routing,Generate a distant alarm bell sound effect.
+routing,Create a low rumble for unstable pressure pipes.
+routing,Make a glass cracking sound for pressure windows.
+routing,Generate a soft radio static loop.
+routing,Create a door hinge creak for an old hospital ward.
+routing,Make a heavy valve turning Foley sound.
+routing,Generate a short UI beep for oxygen warnings.
+routing,Create a muffled explosion sound for a blocked corridor.
+routing,Make a quiet chapel ambience with distant water drops.
+routing,Generate an enemy proximity audio cue with no speech.
+routing,Create a rising tension sound for alarm escalation.
+routing,Make a metal locker slam sound effect.
+routing,Generate a wet tarp rustling Foley sound.
+routing,Create a failing fluorescent light buzz.
+routing,Make a short success chime for completing a rescue.
+routing,Generate an underwater corridor ambience loop.
+routing,Create a heavy breathing non-verbal player warning.
+routing,Make a pressure leak hissing sound effect.
+routing,Generate a distant siren tail for level transitions.
+routing,Create a low-frequency drone for the Glass Warden.
+routing,Make a small button click sound for UI selection.
+routing,Create spoken tutorial audio saying check your oxygen level.
+routing,Make an NPC voice line saying stay close to the green markers.
+routing,Generate narration that says the evacuation route has changed.
+routing,Create a mission announcement saying return to the safe room.
+routing,Make a text-to-speech voice line for Milo Finch saying hold your breath.
+routing,Generate an NPC line saying the generator is unstable.
+routing,Create tutorial speech that says press the confirm button to scan.
+routing,Make a calm voice line saying follow the wrist map.
+routing,Generate a radio message saying corridor B is flooded.
+routing,Create a spoken warning saying oxygen below twenty percent.
+routing,Make a companion voice line saying I found a safer route.
+routing,Generate narration saying the pressure valve is locked.
+routing,Create a survivor voice line saying I am trapped behind the door.
+routing,Make a text-to-speech line saying wait for the alarm to stop.
+routing,Generate a mission voice saying rescue complete.
+routing,Create an announcement saying return to checkpoint board.
+routing,Make an NPC line saying do not use the flashlight now.
+routing,Generate tutorial audio saying open the equipment locker.
+routing,Create spoken dialogue saying the Glass Warden is nearby.
+routing,Make a radio line saying signal lost in the flooded room.
+routing,Generate a calm narrator saying breathe slowly.
+routing,Create a voice prompt saying scan the room for heat signatures.
+routing,Make a mission update saying safe zone unlocked.
+routing,Generate spoken instructions for using the thermal flare.
+routing,Create an NPC dialogue line saying I can hear the pipes cracking.
+routing,Generate motion data for a firefighter crouch walk.
+routing,Create an idle animation for a frightened civilian NPC.
+routing,Make a dodge animation for a player avoiding falling debris.
+routing,Generate a slow patrol walk cycle for the Glass Warden enemy.
+routing,Create a waving gesture animation for a rescued survivor.
+routing,Make a crawling animation for a player moving under smoke.
+routing,Generate a limping walk cycle for an injured NPC.
+routing,Create a two-handed valve turning animation.
+routing,Make a character animation for lifting an oxygen tank.
+routing,Generate a short stumble animation for wet floor slipping.
+routing,Create an animation clip for pointing toward a safe exit.
+routing,Make an enemy attack wind-up animation.
+routing,Generate a motion clip for opening a heavy airlock door.
+routing,Create a breathing idle animation for a scared survivor.
+routing,Make a kneeling rescue animation.
+routing,Generate a hand gesture for scanning with the wrist map.
+routing,Create a sprint-to-stop locomotion animation.
+routing,Make a slow turn animation for a flashlight search.
+routing,Generate a crouched idle pose for stealth gameplay.
+routing,Create a recoil animation for pushing a stuck valve.
+routing,Make a wave-over-here gesture for a companion NPC.
+routing,Generate a collapse animation for a smoke-exposed civilian.
+routing,Create a gesture animation for covering the mouth from smoke.
+routing,Make a climbing-over-debris animation.
+routing,Generate a motion clip for dragging a rescue crate.
+routing,Write a Unity C# script for an oxygen gauge UI.
+routing,Fix a NullReferenceException in a Unity interaction script.
+routing,Create a FastAPI endpoint that forwards prompts to the 3D backend.
+routing,Write a C# component that rotates an objective marker toward the player.
+routing,Debug this JSON parsing issue in my Unity gateway client.
+routing,Implement a Unity script that highlights usable valves.
+routing,Write Python code that checks whether backend services are online.
+routing,Create a C# coroutine that sends chat messages to the gateway.
+routing,Fix a compile error in a Unity script that references TextMeshPro.
+routing,Write a Unity component for oxygen depletion over time.
+routing,Create a C# trigger that updates the checkpoint board.
+routing,Debug a FastAPI timeout when the generation backend is offline.
+routing,Write code to parse asset_url from the gateway response.
+routing,Implement a Unity script for toggling accessibility outlines.
+routing,Create a C# script that plays a siren when oxygen is low.
+routing,Fix a coroutine that never receives the HTTP response.
+routing,Write Python code for logging gateway latency into a CSV file.
+routing,Create a Unity script for grabbing and releasing the pressure valve.
+routing,Debug a JSON serialization error in AgentRequest.
+routing,Write a C# class for storing service response metadata.
+routing,Implement retry logic for failed HTTP service calls.
+routing,Create a FastAPI health route for the sound backend.
+routing,Write a Unity script that displays generated texture URLs.
+routing,Fix an issue where session_id changes every message.
+routing,Create a C# script that sends player position in world_context.
+routing,Debug a route-only endpoint returning router_orchestrator.
+routing,Write Python code to summarise memory test results.
+routing,Implement a Unity UI panel for showing gateway status.
+routing,Design a progression system for unlocking firefighter tools.
+routing,Create rules for a risk-reward loop between fast evacuation and safe evacuation.
+routing,Design a scoring system for rescuing civilians without wasting oxygen.
+routing,Define a cooldown mechanic for using the thermal flare.
+routing,Design a puzzle where two players must stabilise the pressure valve.
+routing,Create a resource economy around oxygen charges and flare uses.
+routing,Design a checkpoint reward system for rescuing optional civilians.
+routing,Define the gameplay loop for scanning rooms and marking exits.
+routing,Create balance rules for flashlight battery drain.
+routing,Design a stealth mechanic around avoiding the Glass Warden.
+routing,Define fail-state rules for running out of oxygen.
+routing,Create a cooperative puzzle using the tether reel and airlock crank.
+routing,Design objective rules for the evacuation map.
+routing,Create a progression system for unlocking safe-zone shortcuts.
+routing,Define player-facing rules for using repair foam.
+routing,Design a risk system where alarms increase enemy aggression.
+routing,Create a reward loop for exploring optional hospital rooms.
+routing,Define how thermal flare charges should be earned.
+routing,Design a mechanic for sharing oxygen between two players.
+routing,Create scoring rules for completing rescues quietly.
+routing,Define a puzzle sequence for restoring generator power.
+routing,Design rules for safe-room discovery.
+routing,Create a balance model for enemy detection and player hiding.
+routing,Define player objectives for the first five minutes of gameplay.
+routing,Design a mechanic where water level changes navigation options.
+routing,Create rules for checkpoint board updates.
+routing,Define a progression loop for learning tools gradually.
+routing,Design patrol behaviour for the Glass Warden enemy.
+routing,Create an AI state machine for a civilian NPC that hides during alarms.
+routing,Define perception rules for an enemy that reacts to flashlight beams.
+routing,Design companion behaviour for Milo Finch during player inactivity.
+routing,Create chase logic for an enemy that slows down near safe zones.
+routing,Define behaviour tree nodes for an evacuation NPC.
+routing,Design an AI decision loop for a survivor choosing safe exits.
+routing,Create investigation behaviour for a guard hearing metal impacts.
+routing,Define enemy state transitions from idle to search to chase.
+routing,Design companion follow-distance behaviour in narrow corridors.
+routing,Create NPC panic behaviour when emergency lights switch off.
+routing,Define AI perception using sound level and flashlight exposure.
+routing,Design a rescue drone behaviour for scanning closed rooms.
+routing,Create enemy attack decision rules for the Glass Warden.
+routing,Define civilian regrouping behaviour after the alarm stops.
+routing,Design patrol route adaptation when the corridor floods.
+routing,Create behaviour rules for a merchant automaton NPC.
+routing,Define a companion hint system based on player hesitation.
+routing,Design enemy retreat behaviour near chapel safe zones.
+routing,Create AI logic for NPCs avoiding smoke-filled rooms.
+routing,Define a behaviour tree for checking doors and calling for help.
+routing,Design perception logic for enemies losing sight of the player.
+routing,Create state transitions for a drone moving from scan to alert.
+routing,Define AI behaviour for a survivor following green markers.
+routing,Design a guard NPC that blocks shortcuts when optional rescues are ignored.
+routing,Generate a 3D model of a cracked rescue chapel altar.
+routing,Create a GLB asset of a portable defibrillator with worn buttons.
+routing,Use this uploaded reference image to create a 3D model of a hospital corridor sign.
+routing,Generate a PBR texture for wet cracked asphalt outside the hospital.
+routing,Create a non-verbal alarm escalation sound effect.
+routing,Make a spoken NPC line saying the north stairwell is blocked.
+routing,Generate motion data for a survivor crawling under smoke.
+routing,Write a Unity C# script that updates the wrist map objective text.
+routing,Design a gameplay rule for sharing rescue tools between two players.
+routing,Create AI behaviour for a drone that marks rooms with heat signatures.
+routing,Generate a 3D model of a broken wall-mounted oxygen gauge.
+routing,Create a seamless stained concrete texture with water damage.
+routing,Design enemy search behaviour after the player turns off the flashlight.

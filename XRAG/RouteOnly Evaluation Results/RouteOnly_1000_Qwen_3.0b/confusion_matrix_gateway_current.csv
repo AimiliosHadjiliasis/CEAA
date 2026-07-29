@@ -1,0 +1,11 @@
+model,expected_route,coding_support,game_ai_guidance,gameplay_mechanics,generation_3d,image_to_3d_generation,motion_generation,router_orchestrator,sound_generation,text_to_speech,texture_generation
+gateway_current,coding_support,94,0,3,0,0,1,0,0,0,2
+gateway_current,game_ai_guidance,0,62,1,0,0,0,37,0,0,0
+gateway_current,gameplay_mechanics,0,0,68,0,0,0,32,0,0,0
+gateway_current,generation_3d,0,0,0,93,7,0,0,0,0,0
+gateway_current,image_to_3d_generation,0,0,0,37,63,0,0,0,0,0
+gateway_current,motion_generation,0,0,0,0,0,100,0,0,0,0
+gateway_current,router_orchestrator,1,0,1,0,0,0,97,0,1,0
+gateway_current,sound_generation,0,0,0,0,0,0,0,100,0,0
+gateway_current,text_to_speech,0,0,0,0,0,0,0,0,100,0
+gateway_current,texture_generation,0,0,0,0,0,0,0,0,0,100
